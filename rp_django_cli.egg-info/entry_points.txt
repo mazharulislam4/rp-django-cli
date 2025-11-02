@@ -1,0 +1,2 @@
+[console_scripts]
+rp = rp.cli:cli

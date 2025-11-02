@@ -1,0 +1,12 @@
+LICENSE
+README.md
+setup.py
+rp/__init__.py
+rp/cli.py
+rp/generator.py
+rp_django_cli.egg-info/PKG-INFO
+rp_django_cli.egg-info/SOURCES.txt
+rp_django_cli.egg-info/dependency_links.txt
+rp_django_cli.egg-info/entry_points.txt
+rp_django_cli.egg-info/requires.txt
+rp_django_cli.egg-info/top_level.txt
